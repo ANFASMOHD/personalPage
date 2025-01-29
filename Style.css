@@ -1,0 +1,30 @@
+
+body{
+text-align: center;
+ background-image: linear-gradient(to right, rgb(180, 218, 98) , rgb(121, 129, 102));
+ background-position: center;
+ background-size: cover;
+
+
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+input{
+padding: 10px;
+color:black;
+background-color: rgb(223, 226, 228);
+border-radius: 5px;
+box-shadow: 2px 2px rgb(89, 88, 88);
+    
+}
+p{
+    font-size: 22px;
+}
+
+.but{
+color:white;
+background-color: black;
+}
